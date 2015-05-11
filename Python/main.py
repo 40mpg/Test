@@ -3,7 +3,6 @@ try:
     newUser = False
     userChoice = 0
     
-    
     userName = input("Please input your username: ")
     
     userScore = theMeat.getUserPoint(userName)
