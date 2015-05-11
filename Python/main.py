@@ -1,5 +1,6 @@
 try:
     import theMeat
+    Anh = "Anh"
     newUser = False
     userChoice = 0
     
